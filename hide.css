@@ -1,0 +1,17 @@
+.menutitle
+{
+	cursor:pointer;
+	margin-bottom:3px;
+	padding-left:16px;
+	width:900px;
+	height:16px;
+	text-align:left;
+	background-repeat:no-repeat;
+	position:relative;
+	left:-48px;
+}
+.submenu
+{
+	display: none;
+	margin-bottom: 0px;
+}

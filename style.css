@@ -1,0 +1,28 @@
+* {margin:0 auto;padding:0 auto;border-width:0px;}
+body{
+	font:12px sans-serif,細明體;
+	color:#000000;
+	background:#ffffff;
+	text-align:justify;
+	letter-spacing:1px;
+	line-height:130%;
+}
+pre{
+	font:12px 細明體;
+	color:#000000;
+	line-height:130%;
+}
+a{
+	font-family:sans-serif,細明體;
+	text-decoration:none;
+	color:#0000AA;
+	outline:none;
+	hlbr:expression(this.onFocus=this.blur());
+	blr:expression(this.onFocus=this.blur());
+	noFocusLine:expression(this.onFocus=this.blur());
+}
+:focus {-moz-outline-style: none;}
+a:hover{color:#EC42FF;}
+.ctitle{font:bold 20px sans-serif,細明體;color:#FF6C16;}
+.opengl{color:#690DC4;font-family:sans-serif,細明體;}
+.glut{color:#A50B9E;font-family:sans-serif,細明體;}
